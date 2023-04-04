@@ -1,0 +1,15 @@
+
+.text-color{
+    color:brown
+} 
+
+.text-font{
+    font:bold;
+}
+
+.text-nav{
+    list-style-position:inside;
+}
+.text-img{
+    text-align: center;
+}
